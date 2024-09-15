@@ -1,0 +1,40 @@
+**** Mx Simulator stats ****
+
+Times played total:               664
+Time played all time:             143:0:17
+Average play time per session:    0:10:4
+
+Time played this day:             0:10:0
+Time played this week:            0:15:44
+Time played this month:           0:15:44
+Time played this year:            25:11:29
+
+Average play time/day:            0:9:35
+Average play time/week:           1:18:58
+Average play time/month:          5:41:18
+Average play time/year:           47:38:18
+
+All time high per day:            2:0:1
+All time high per week:           5:39:54
+All time high per month:          20:3:4
+All time high per year:           92:38:7
+
+------------------------------------------
+
+Times played this day:            1
+Times played this week:           2
+Times played this month:          2
+Times played this year:           130
+
+Average times played/day:         0.90212
+Average times played/week:        6.2642
+Average times played/month:       26.55996
+Average times played/year:        221.3329
+
+All time high times played/day:   8
+All time high times played/week:  22
+All time high times played/month: 80
+All time high times played/year:  388
+
+doc last updated:                 2024-9-15
+doc created:                      2022-9-11

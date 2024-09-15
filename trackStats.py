@@ -1,24 +1,6 @@
 # helpers.py
 import os
 import glob
-import json
-
-
-def getOldValuesFromJson():
-
-    # read json file into a dictionary
-    
-    # Define the file path
-    file_path = r"C:\Users\Win 10 PC\Desktop\scripts\MxSim\mxStats\playTime.json"
-
-    home_dir = os.path.expanduser("~")
-
-    with open("C:\\Users\Win 10 PC\Desktop\scripts\MxSim\mxStats\playTime.json", "r") as f:
-        data = json.load(f)
-        return data
-    
-values = getOldValuesFromJson()
-print(values['Times played total'])
 
 def get_most_recent_lastlap_folder():
     # Get the path to the user's home directory
@@ -44,4 +26,3 @@ def get_most_recent_lastlap_folder():
         most_recent_folder_name = os.path.basename(most_recent_file_dir)
 
         return most_recent_folder_name
-    

@@ -42,6 +42,10 @@ def stringToSeconds(str):
 #         print(stringToSeconds(randString))
 
 
+
+
+
+
 def getOldValues():
     with open("C:\\Users\Win 10 PC\Desktop\scripts\MxSim\mxStats\playTime.txt", "r") as f1:
         contents = f1.read()
